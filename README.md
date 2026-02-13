@@ -180,8 +180,8 @@ Telegram 群组 / 频道
 
 如你对本项目的 **架构实现、定制开发、商业合作** 感兴趣，欢迎私下交流：
 
-- Telegram：[@Uk233(https://t.me/SkiApp) [@CraneVip(https://t.me/SkiApp)
-- 双向机器人 [@Sk444bot(https://t.me/user1log)  [@DinBoCsbot(https://t.me/user1log)
+- Telegram：[@Skiapp(https://t.me/SkiApp) [@SkiApp(https://t.me/SkiApp)
+- 双向机器人 [@user1log(https://t.me/user1log)  [@user1log(https://t.me/user1log)
 
 
 
